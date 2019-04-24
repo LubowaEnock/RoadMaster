@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357927549425",
+    "firebase_url": "https://roadmaster-e6d6e.firebaseio.com",
+    "project_id": "roadmaster-e6d6e",
+    "storage_bucket": "roadmaster-e6d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357927549425:android:e718603164b78c5d",
+        "android_client_info": {
+          "package_name": "com.example.roadmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357927549425-ceahvbds8fcrjqb44dbom9i5tedvhs0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roadmaster",
+            "certificate_hash": "e5c9c9042108e8a6a22fcbd6ff2011ec9ce55183"
+          }
+        },
+        {
+          "client_id": "357927549425-r95udhdrajsrn22qsij73rc9n7vt7eud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0OHeWywOPuWSyfxlMXWNLpESXzWn6z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357927549425-r95udhdrajsrn22qsij73rc9n7vt7eud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
