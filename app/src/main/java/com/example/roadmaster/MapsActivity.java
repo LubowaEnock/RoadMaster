@@ -71,7 +71,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         latLng = new LatLng(0.347598,32.582520);
 
         if(!Places.isInitialized()){
-            Places.initialize(getApplicationContext(), "AIzaSyBh_O_tWAqSnGimjHvPozuhl2J39XTNuaA");
+            Places.initialize(getApplicationContext(), "Add API key");
         }
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
